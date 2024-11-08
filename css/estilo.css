@@ -1,0 +1,436 @@
+header {
+    background-color: #d04694; /* Cor de fundo */
+    padding: 20px 0;
+    display: flex;
+    align-items: center; /* Alinha verticalmente os itens no centro */
+}
+
+header {
+    background-color: #333;
+    padding: 15px 0;
+  }
+  
+  header {
+    background-color: #cc8efe; /* Cor de fundo */
+    padding: 20px 0;
+    display: flex;
+    align-items: center; /* Alinha verticalmente os itens no centro */
+}
+
+.container1{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center; /* Alinha os itens do container */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Alinha os itens da lista em linha */
+}
+  
+  nav ul li {
+    margin-left: 15px;
+    margin: 0 15px;
+
+  }
+  
+  nav a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover {
+    color: #deafca; /* Altere para a cor que preferir */
+  }
+  
+  
+.logo {
+    height: 50px; /* Ajuste a altura conforme necessário */
+    margin-right: 670px; /* Espaçamento entre o logo e o menu */
+}
+
+
+header {
+    background-color: #d04694; /* Cor de fundo */
+    padding: 20px 0;
+    display: flex;
+    align-items: center; /* Alinha verticalmente os itens no centro */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center; /* Alinha os itens do container */
+}
+
+.container1{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center; /* Alinha os itens do container */
+}
+
+
+h1 {
+    color: #d04694; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+    font-size: 36px; /* Tamanho da fonte */
+    text-align: center; /* Alinhar o texto ao centro */
+    margin-top: 20px; /* Espaçamento acima do h1 */
+    margin-bottom: 20px; /* Espaçamento abaixo do h1 */
+}
+
+h2 {
+    color: #d04694; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+    font-size: 36px; /* Tamanho da fonte */
+    text-align: center; /* Alinhar o texto ao centro */
+    margin-top: 20px; /* Espaçamento acima do h1 */
+    margin-bottom: 20px; /* Espaçamento abaixo do h1 */
+}
+
+
+h3 {
+    color: #d04694; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+    font-size: 30px; /* Tamanho da fonte */
+    text-align: center; /* Alinhar o texto ao centro */
+    margin-top: 20px; /* Espaçamento acima do h1 */
+    margin-bottom: 20px; /* Espaçamento abaixo do h1 */
+}
+
+p {
+    color: #000000; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+    font-size: 20px; /* Tamanho da fonte */
+    text-align: center; /* Alinhar o texto ao centro */
+    margin-top: 15px; /* Espaçamento acima do h1 */
+    margin-bottom: 20px; /* Espaçamento abaixo do h1 */
+
+}
+
+.flor {
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente no centro */
+    align-items: center; /* Alinha verticalmente no centro */
+
+}
+
+
+.foto-perfil{
+    display: flex;
+    justify-content: center; /* Alinha a imagem horizontalmente */
+    align-items: center; /* Alinha a imagem verticalmente */
+    margin-top: 20px;
+}
+
+.Perfil{
+    margin-top: 50px;
+    width: 150px; /* Largura do container */
+    height: 150px; /* Altura do container */
+    border-radius: 50%;
+    border: 2px solid #d04694; /* Borda ao redor do container */
+}
+
+.desenho{
+    margin-left: 70px;
+    margin-top: -400px;
+}
+
+.flor2{
+    width: 300px; /* Largura do container */
+    height: 300px; /* Altura do container */
+}
+
+
+.animação{
+    display: flex;
+    justify-content: center; /* Alinha a imagem horizontalmente */
+    align-items: center; /* Alinha a imagem verticalmente */
+    margin-right: -750px;
+    margin-top: -300px;
+
+}
+
+.flor3{
+    width: 300px; /* Largura do container */
+    height: 300px; /* Altura do container */
+}
+
+#sobre {
+    margin-top: 15px;
+    padding: 60px 20px;
+    background-color: #d04694;
+    text-align: center;
+}
+
+.sobre-mim-titulo h2 {
+    font-size: 2em;
+    color: #deafca;
+    margin-bottom: 15px;
+}
+
+.sobre-mim-conteudo p {
+    color: #ddd;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+#formação {
+    padding: 60px 20px;
+    background-color: #bf6799;
+    text-align: center;
+}
+
+.formação-titulo h2 {
+    font-size: 2em;
+    color: #deafca;
+    margin-bottom: 15px;
+}
+
+.formação-conteudo p {
+    color: #ddd;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+#idioma {
+    padding: 60px 20px;
+    background-color: #deafca ;
+    text-align: center;
+}
+
+.idioma-titulo h2 {
+    font-size: 2em;
+    color: #d04694;
+    margin-bottom: 15px;
+}
+
+.idioma-conteudo p {
+    color: #000000;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* Estilos dos cards de projeto */
+    #projetos{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .card {
+        background-color: #e1d5dc;
+        width: 280px;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+        transform: translateY(0);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5);
+    }
+
+    .card img {
+        max-width: 100%;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+
+    .card h3 {
+        color: #d04694;
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+
+    .h3{
+        text-align: center;
+        display: flex;
+    }
+
+    #certificados {
+        padding: 50px;
+        background-color: #ffffff;
+      }
+      .certificados2 {
+        padding: 50px;
+        background-color: #ffffff;
+      }
+      
+      .certificados h2 {
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 2rem;
+        color: #d04694;
+      }
+      
+      .certificados-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+      }
+      
+      .certificado {
+        width: 240px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        overflow: hidden;
+        text-align: center;
+      }
+      
+      .certificado img {
+        width: 100%;
+        height: auto;
+      }
+      
+
+    footer{
+        background-color: #333;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+      }
+      
+      .container-footer {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      
+      .container-footer p {
+        margin: 0;
+        font-size: 1rem;
+      }
+      
+      #contatos {
+        margin-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+      }
+      
+      #contatos a {
+        color: #fff;
+        text-decoration: none;
+        transition: color 0.3s;
+      }
+      
+      #contatos a:hover {
+        color: #d04694; /* Altere para a cor que preferir */
+      }
+      
+/*Cabeçalho*/
+@media screen and (max-width: 1150px){
+    .menu{
+    display:none;
+    }
+}
+@media screen and (max-width: 1020px){
+    .card {
+        width: 220px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .card {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 780px){
+    .card {
+        width: 180px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .card {
+        width: 150px;
+    }
+}
+@media screen and (max-width:1050px){
+    .animação, .desenho{
+        display:none
+    }
+}
+
+@media screen and (max-width:1880px){
+    .certificado {
+        width: 220px;
+  
+      }
+
+
+}
+@media screen and (max-width:823px){
+    .certificado {
+        width: 200px;
+  
+      }
+
+
+}
+@media screen and (max-width:760px){
+    .certificado {
+        width: 180px;
+  
+      }
+
+
+}
+
+@media screen and (max-width:700px){
+    .certificado {
+        width: 150px;
+  
+      }
+
+
+}
+
+@media screen and (max-width:610px){
+    .certificado {
+        width: 130px;
+  
+      }
+
+
+}
+
+@media screen and (max-width:550px){
+    .certificado {
+        width: 95px;
+  
+      }
+
+
+}
